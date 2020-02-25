@@ -1,0 +1,78 @@
+body{
+    margin: 0;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 25px;
+    line-height: 35px;
+    background-color: black;
+    color: white;
+}
+
+header{
+    background-color: slategrey;
+    text-align: center;
+    padding-top: 50px;
+    padding-bottom: 50px;
+}
+
+h1, h2{
+    font-family: 'Trade Winds', cursive;
+    color: blanchedalmond;
+}
+
+header h1{
+    color: white;  
+    font-size: 50px;
+}
+
+header img{
+    border-radius: 150px;
+    width: 890px;
+    border: 20px solid white;
+}
+
+main{
+    max-width: 33,500px;
+    margin: 0 auto;
+    padding: 0 50px;
+}
+
+main img{
+    max-width 100%;
+}
+
+h2{
+    font-size: 30px;
+    margin: 40px 0 0;
+}
+
+a{
+    color: teal;
+}
+a:hover{
+    color: green;
+    background-color: white;
+}
+
+footer{
+    text-align: center;
+    background-color: darkgray;
+    padding: 50px;
+}
+footer p{
+    margin: 0;
+}
+
+footer a{
+    color: blanchedalmond
+}
+
+footer a:hover{
+    opacity: .5;
+    background-color: transparent;
+}
+
+p.caption{
+    color: grey;
+    font-style: italic;
+    margin-top: 0;
+}
